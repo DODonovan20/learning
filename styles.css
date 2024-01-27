@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1 {
+    font-size: 20px;
+    font-family: cursive;
+    color: yellowgreen;
+    text-align: center;
+   
+}
+
+section {
+    background-color: aliceblue;
+}
+
+p {
+    background-color: aliceblue;
+}
