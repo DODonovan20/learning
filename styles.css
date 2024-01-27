@@ -1,18 +1,31 @@
 body{
     background-color: black;
 }
+.container{
+    display: flex;
+}
+
+main {
+    flex: 2;
+    padding: 20px;
+
+}
+.sidebar {
+    flex: 1;
+    padding: 20px;
+}
 h1 {
     font-size: 20px;
     font-family: cursive;
     color: yellowgreen;
     text-align: center;
-   
 }
 
-section {
-    background-color: aliceblue;
+a{
+    color: yellowgreen;
 }
 
 p {
-    background-color: aliceblue;
+    size: 10px;
+    color: white;
 }
