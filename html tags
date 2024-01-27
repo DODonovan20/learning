@@ -1,0 +1,118 @@
+html tags
+
+Document Structure:
+
+<html>: Defines the root of an HTML document.
+<head>: Contains meta-information about the HTML document (e.g., title, meta tags).
+<title>: Sets the title of the HTML document, displayed in the browser's title bar or tab.
+<body>: Contains the content of the HTML document.
+Text Formatting:
+
+<h1> to <h6>: Heading tags for defining headings (h1 being the largest and h6 the smallest).
+<p>: Defines a paragraph.
+<strong> or <b>: Represents strong importance or bold text.
+<em> or <i>: Represents emphasized text or italic text.
+<u>: Represents underlined text (though not recommended for styling).
+Lists:
+
+<ul>: Defines an unordered (bulleted) list.
+<ol>: Defines an ordered (numbered) list.
+<li>: Represents a list item.
+Links:
+
+<a>: Defines a hyperlink.
+href: Specifies the URL the link goes to.
+target="_blank": Opens the linked document in a new tab or window.
+Images:
+
+<img>: Embeds an image.
+src: Specifies the path to the image file.
+alt: Provides alternative text for accessibility.
+Tables:
+
+<table>: Defines a table.
+<tr>: Defines a table row.
+<td>: Defines a table cell (data).
+<th>: Defines a table header cell.
+Forms:
+
+<form>: Defines an HTML form for user input.
+<input>: Defines an input field.
+<textarea>: Defines a multiline text input.
+<select>: Defines a dropdown list.
+<button>: Defines a clickable button.
+Media:
+
+<audio>: Embeds audio content.
+<video>: Embeds video content.
+<iframe>: Embeds an inline frame (used for embedding external content, like maps or videos).
+Style and Layout:
+
+<div>: Defines a division or a section in an HTML document.
+<span>: Defines an inline container for styling a specific portion of text.
+<br>: Represents a line break.
+<hr>: Represents a horizontal rule (line).
+Meta Information:
+
+<meta>: Provides metadata about the HTML document (e.g., character set, viewport settings).
+
+
+CSS 
+Text Styling:
+
+color: Sets the color of the text.
+font-family: Specifies the font for text.
+font-size: Sets the size of the font.
+font-weight: Defines the thickness of the font characters (e.g., bold).
+Text Layout:
+
+text-align: Aligns text (left, right, center, justify).
+line-height: Sets the height of a line of text.
+letter-spacing: Adjusts the spacing between characters.
+text-decoration: Adds decoration to text (e.g., underline, overline, line-through).
+Backgrounds:
+
+background-color: Sets the background color.
+background-image: Sets the background image.
+background-size: Sets the size of the background image.
+background-position: Sets the starting position of the background image.
+Borders:
+
+border: Sets the border properties (width, style, color).
+border-radius: Adds rounded corners to an element.
+Margins, Padding, and Dimensions:
+
+margin: Sets the margin outside an element.
+padding: Sets the padding inside an element.
+width: Sets the width of an element.
+height: Sets the height of an element.
+Positioning:
+
+position: Sets the positioning method (e.g., relative, absolute, fixed).
+top, right, bottom, left: Sets the positioning values.
+Display:
+
+display: Defines how an element is displayed (e.g., block, inline, none).
+flex: Enables a flex container.
+justify-content: Aligns items on the main axis in a flex container.
+Flexbox:
+
+flex-direction: Sets the direction of the main axis in a flex container.
+align-items: Aligns items on the cross axis in a flex container.
+flex-grow, flex-shrink, flex-basis: Controls the flexibility of a flex item.
+Grid Layout:
+
+display: grid: Enables a grid container.
+grid-template-columns, grid-template-rows: Defines the columns and rows of a grid.
+Transformations and Transitions:
+
+transform: Applies a 2D or 3D transformation to an element.
+transition: Specifies how a property should transition over time.
+Box Model:
+
+box-sizing: Defines how the width and height of an element are calculated.
+outline: Sets the outline properties (width, style, color).
+Visibility and Opacity:
+
+visibility: Sets whether an element is visible or hidden.
+opacity: Sets the opacity level of an element.
