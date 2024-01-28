@@ -61,7 +61,7 @@ a{
     color: rgb(255,255,255);   
 }
 p {
-    size: 8px;
+    font-size: 4px;
     color: white;
 }
 ul {
