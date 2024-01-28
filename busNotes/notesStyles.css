@@ -9,7 +9,7 @@ h1 {
     text-align: center;
 }
 h2 {
-    font-size: 18px;
+    font-size: 16px;
     font-family: cursive;
     color: rgb(0,217,255);
     text-align: center;
@@ -20,13 +20,15 @@ p {
     color: white;
     font-size: 12px;
 }
-.inList{
-    text-align: left;
-}
+
 b {
     color:rgb(0,217,255);
 }
 
 ol {
     color: white;
+}
+a {
+    color: rgb(0, 134, 211);
+
 }
