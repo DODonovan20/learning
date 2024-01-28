@@ -58,7 +58,8 @@ h6 {
 }
 
 a{
-    color: rgb(255,255,255);   
+    color: rgb(255,255,255); 
+    font-size: 8px;
 }
 p {
     font-size: 12px;
